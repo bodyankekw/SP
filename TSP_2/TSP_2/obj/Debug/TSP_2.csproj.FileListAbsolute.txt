@@ -1,0 +1,9 @@
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\bin\Debug\TSP_2.exe.config
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\bin\Debug\TSP_2.exe
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\bin\Debug\TSP_2.pdb
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\obj\Debug\TSP_2.csprojAssemblyReference.cache
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\obj\Debug\TSP_2.Form1.resources
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\obj\Debug\TSP_2.Properties.Resources.resources
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\obj\Debug\TSP_2.csproj.GenerateResource.cache
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\obj\Debug\TSP_2.exe
+C:\Users\bodyanbI4\source\repos\TSP_2\TSP_2\obj\Debug\TSP_2.pdb
